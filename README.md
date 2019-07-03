@@ -23,3 +23,9 @@ This is a quick "How it works", i invite you to trie it
 
 (State: in development but can be test it)
 tucartel.uy
+
+User: Diseniador
+Password: 1234
+
+User: Cartelero
+Password: 1234
