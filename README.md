@@ -1,5 +1,5 @@
 # tuCartel
-A website about signboards
+A website about signboards based with Django
 
 tuCartel its a website that connect customers with 'carteleros' (who makes sign boards)
 
